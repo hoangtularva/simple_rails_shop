@@ -1,3 +1,2 @@
 Admin
-Email: admin@example.com
-Pass
+Email: admin@example.com Pass
