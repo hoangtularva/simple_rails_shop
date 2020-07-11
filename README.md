@@ -1,2 +1,1 @@
-admin@example.com 
-password
+Admin
